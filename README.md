@@ -1,7 +1,7 @@
 <h2>Fenty-Beauty-Sales</h2>
 
 ![fenty image](https://github.com/blackish-joe/Fenty-Beauty-Sales/assets/59397702/13d3f8ca-89e1-41b9-8f70-865d5b83bc1e)
-This datasent can be downloaded <a href="https://shorturl.at/QEV6B"> Here </a>
+This dataset can be downloaded <a href="https://shorturl.at/QEV6B"> Here </a>
 
 # Sales Dataset Analysis
 
